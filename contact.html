@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Shop our new brand collections!">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="img/x-con.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <script src="js/contact.js" defer></script>
+    <title>Contact Us - Crossed Bunny</title>
+</head>
+<body>
+    <div class="header contact-header">
+        <div class="header-div">
+            <!-- Header Links Container 1 -->
+            <div class="header-links-div-1">
+                <div class="header-links-1">
+                    <menu class="header-links-1-menu">
+                        <li class="header-link"><a href="home.html">SHOP</a></li>
+                        <li class="header-link"><a>NEW ARRIVALS</a></li>
+                        <li class="header-link"><a>COLLECTIONS</a></li>
+                    </menu>
+                </div>
+                <div class="collection-section">
+                    <menu class="collection-menu">
+                        <li class="collection-element"><a href="">Men</a></li>
+                        <li class="collection-element"><a href="">Women</a></li>
+                        <li class="collection-element"><a href="">Children</a></li>
+                        <li class="collection-element"><a href="">Variations</a></li>
+                        <li class="collection-element"><a href="">Latest Releases</a></li>
+                    </menu>
+                </div>
+            </div>
+            <div class="header-logo">
+                <div class="header-logo-image">
+                    <a href="home.html"><img src="img/logo.png" alt="Crossed Bunny Logo"></a>
+                </div>
+            </div>
+            <div class="header-links-div-2">
+                <div class="header-links-2">
+                    <menu class="header-links-2-menu">
+                        <li class="header-link-2"><a>SALES/DISCOUNT</a></li>
+                        <li class="header-link-2"><a href="about.html">ABOUT US</a></li>
+                        <li class="header-link-2"><a href="contact.html">CONTACT</a></li>
+                    </menu>
+                </div>
+            </div>
+        </div>
+        <div class="cart-div">
+            <div class="cart">
+                <a href=""><img src="img/cart.png" alt="Cart Logo"></a>
+            </div>
+        </div>
+    </div>
+    <main class="contact-main">
+        <div class="contact-left-side">
+            <div class="contact-left-container">
+                <div class="contact-left-container-image">
+                    <img src="img/Contact-Us.png" alt="Contact Us">
+                </div>
+                <div class="contact-left-container-text">
+                    <h2>We'd Love to Hear from You!</h2>
+                    <div class="contact-us-paragraphs">
+                        <p>Feel free to reach out to us for any inquiries or support. We are here to assist you and answer any questions you may have.</p>
+                        <p>Email: <em>contact@crossedbunny.com</em></p>
+                        <p>Phone number: +1 (416) 123 4567</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="contact-right-side">
+            <div class="contact-form-container">
+                <form class="contact-form" action="connect.php" method="post">
+                    <h2>Contact Us</h2>
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="subject">Subject</label>
+                        <input type="text" id="subject" name="subject" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" name="message" rows="8" required></textarea>
+                    </div>
+                    <button class="submit-button" type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

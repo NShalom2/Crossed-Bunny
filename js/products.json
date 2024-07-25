@@ -1,0 +1,122 @@
+[
+    {
+        "id" : 1,
+        "name" : "Urban Classic Hoodie",
+        "oldPrice" : 89.99,
+        "newPrice" : 78.49,
+        "description" : "Stay warm and stylish with the Urban Classic Hoodie. Crafted from high-quality materials, this hoodie is perfect for everyday wear and features a modern fit that complements any casual look.",
+        "category" : "Men's Clothing",
+        "images" : {
+            "front" : "./img/Mens-Hoodie-Design1-Default-Front-Minimized.png",
+            "back" : "./img/Mens-Hoodie-Design1-Default-Back-Minimized.png",
+            "rear" : "./img/Mens-Hoodie-Design1-Default-Rear-Minimized.png"
+        },
+        "colors" : ["Black"],
+        "sizes" : ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+        "id" : 2,
+        "name" : "Maverick Flex Hoodie",
+        "oldPrice" : 95.01,
+        "newPrice" : 84.99,
+        "description" : "The Maverick Flex Hoodie offers unparalleled comfort and flexibility. Designed for active individuals, it features a lightweight, breathable fabric that moves with you, making it ideal for workouts or casual outings.",
+        "category" : "Men's Clothing",
+        "images" : {
+            "front" : "./img/Mens-Hoodie-Design2-Default-Front-Minimized.png",
+            "back" : "./img/Mens-Hoodie-Design2-Default-Back-Minimized.png",
+            "rear" : "./img/Mens-Hoodie-Design2-Default-Rear-Minimized.png"
+        },
+        "colors" : ["Black"],
+        "sizes" : ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+        "id" : 3,
+        "name" : "Breezy Style Summer Shorts",
+        "oldPrice" : 72.99,
+        "newPrice" : 65.59,
+        "description" : "Embrace the summer vibes with our Breezy Style Summer Shorts. These shorts are perfect for warm weather, offering a comfortable fit and breathable fabric to keep you cool all day long.",
+        "category" : "Men's Clothing",
+        "images" : {
+            "front" : "./img/Mens-Bshorts-Design1-Default-Front-Minimized.png",
+            "back" : "./img/Mens-Bshorts-Design1-Default-Back-Minimized.png",
+            "rear" : "./img/Mens-Bshorts-Design1-Default-Rear-Minimized.png"
+        },
+        "colors" : ["Black"],
+        "sizes" : ["S", "M", "L", "XL"]
+    },
+    {
+        "id" : 4,
+        "name" : "Comfy Fit High-Waist Leggings",
+        "oldPrice" : 80.99,
+        "newPrice" : 74.49,
+        "description" : "Experience the ultimate comfort and support with our Comfy Fit High-Waist Leggings. Perfect for workouts or casual wear, these leggings offer a flattering high-waist design and are made from a stretchy, durable fabric.",
+        "category" : "Women's Clothing",
+        "images" : {
+            "front" : "./img/Womens-Leggings-Design1-Default-Front-Minimized.png",
+            "back" : "./img/Womens-Leggings-Design1-Default-Back-Minimized.png",
+            "rear" : "./img/Womens-Leggings-Design1-Default-Rear-Minimized.png"
+        },
+        "colors" : ["Black"],
+        "sizes" : ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+        "id" : 5,
+        "name" : "Little Explorers T-shirt",
+        "oldPrice" : 67.99,
+        "newPrice" : 52.49,
+        "description" : "Let your kids explore the world in style with the Little Explorers T-shirt. Made from soft, breathable fabric, this t-shirt is designed for comfort and durability, perfect for everyday adventures.",
+        "category" : "Kid's Clothing",
+        "images" : {
+            "front" : "./img/Kids-Tshirt-Design1-Default-Front-Minimized.png",
+            "back" : "./img/Kids-Tshirt-Design1-Default-Back-Minimized.png",
+            "rear" : "./img/Kids-Tshirt-Design1-Default-Rear-Minimized.png"
+        },
+        "colors" : ["Black"],
+        "sizes" : ["S", "M", "L"]
+    },
+    {
+        "id" : 6,
+        "name" : "Exclusive Sable Legacy T-shirt",
+        "oldPrice" : 73.59,
+        "newPrice" : 68.79,
+        "description" : "Make a statement with the Exclusive Sable Legacy T-shirt. Featuring a unique design and crafted from premium materials, this t-shirt is perfect for those who want to stand out from the crowd.",
+        "category" : "Men's Clothing",
+        "images" : {
+            "front" : "./img/Mens-Tshirt-Design1-Default-Front-Minimized.png",
+            "back" : "./img/Mens-Tshirt-Design1-Default-Back-Minimized.png",
+            "rear" : "./img/Mens-Tshirt-Design1-Default-Rear-Minimized.png"
+        },
+        "colors" : ["Black"],
+        "sizes" : ["S", "M", "L", "XL", "XXL", "3XL"]
+    },
+    {
+        "id" : 7,
+        "name" : "Urban Rebel Bomber Jacket",
+        "oldPrice" : 105.59,
+        "newPrice" : 93.69,
+        "description" : "Add an edge to your wardrobe with the Urban Rebel Bomber Jacket. Designed for the bold and fearless, this jacket features a sleek, modern fit and is made from high-quality materials for durability and style.",
+        "category" : "Women's Clothing",
+        "images" : {
+            "front" : "./img/Womens-Bomber-Design1-Default-Front-Minimized.png",
+            "back" : "./img/Womens-Bomber-Design1-Default-Back-Minimized.png",
+            "rear" : "./img/Womens-Bomber-Design1-Default-Rear-Minimized.png"
+        },
+        "colors" : ["Black"],
+        "sizes" : ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+        "id" : 8,
+        "name" : "Classic Style Graphic T-shirt",
+        "oldPrice" : 67.99,
+        "newPrice" : 62.49,
+        "description" : "Embrace timeless style with the Classic Style Graphic T-shirt. This t-shirt features a classic fit and a stylish graphic design, perfect for any casual occasion. Made from high-quality materials for lasting comfort.",
+        "category" : "Men's Clothing",
+        "images" : {
+            "front" : "./img/Mens-Tshirt-Design2-Default-Front-Minimized.png",
+            "back" : "./img/Mens-Tshirt-Design2-Default-Back-Minimized.png",
+            "rear" : "./img/Mens-Tshirt-Design2-Default-Rear-Minimized.png"
+        },
+        "colors" : ["Black"],
+        "sizes" : ["S", "M", "L", "XL", "XXL", "3XL"]
+    }
+]
